@@ -1,0 +1,13 @@
+{
+  "tabs": [
+    {
+      "tab": "teste"
+    }
+  ],
+  "navigation": {
+    "pages": [
+      "new-page",
+      "teste-new-page"
+    ]
+  }
+}
