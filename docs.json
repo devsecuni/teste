@@ -1,7 +1,9 @@
 {
   "tabs": [
     {
-      "tab": "teste"
+        "name": "API Referência",
+        "url": "api-reference",
+        "openapi": "https://portal.unicontrol.me/v1/openapi"
     }
   ],
   "navigation": {
